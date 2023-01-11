@@ -33,3 +33,6 @@
 
 # JetBrains IDE files
 /.idea
+
+# Node Modules
+/node_modules
